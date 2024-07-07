@@ -21,5 +21,11 @@ The main thing you might want to change is the "Try Real Math!" error handling i
 </ul>
 </p>
 
-![image](https://github.com/BarbieDreamz/Pastel-Heart-Calculator/assets/78175897/08eeb561-f862-44e8-bf64-0db2011c583b)
+Regular Pastels             |  Linear Gradient
+:-------------------------:|:-------------------------:
+![image](https://github.com/BarbieDreamz/Pastel-Heart-Calculator/assets/78175897/08eeb561-f862-44e8-bf64-0db2011c583b)  | ![image](https://github.com/BarbieDreamz/Pastel-Heart-Calculator/assets/78175897/48aae3b1-0d32-469a-89c1-b66c36252085)
+
+
+
+
 
