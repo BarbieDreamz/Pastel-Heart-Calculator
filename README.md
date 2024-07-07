@@ -1,6 +1,22 @@
-The main thing you might want to change is the "Try Real Math!" error handling in JS to something like "Error" ...because "Try Real Math!" might be a bit harsh.
+## Colorful Heart Calculator
 
-<p>References:
+This is a fun and colorful calculator project built with JavaScript and CSS. It features heart-shaped buttons for a unique look.
+
+<b>Features:</b>
+
+Basic mathematical operations (addition, subtraction, multiplication, division)
+(Add more features if applicable)
+
+<b>Technologies:</b> <br>
+HTML <br>
+CSS<br>
+JavaScript<br>
+
+<b>Error Handling:</b>
+
+The current error message for invalid input is "Try Real Math!".  Consider changing this to a more user-friendly message like "Invalid Input" or providing specific guidance on what kind of input is expected.
+
+<p><b>References:</b>
     <ul>
         <li>
             <a href="https://www.youtube.com/watch?v=I5kj-YsmWjM&ab_channel=BroCode" target="_blank">
